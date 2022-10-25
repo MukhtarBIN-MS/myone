@@ -261,6 +261,7 @@
   }
   .beauty{
     font-family:'Algerian', 'Charlemagne Std', 'Copperplate Gothic Bold', 'Rosewood Std Regular';
+    color:green;
   }
   
   .section-title .sub-title {
@@ -1687,11 +1688,13 @@
 .desc{
     display: none;
 }
+
 .rek{
   display: block;
 }
 .dimg{
   margin-right: 20px;
+  margin-top: 20px;
   width:350px;
   height: 550px;
 }
@@ -1777,6 +1780,7 @@
     .beauty{
       font-family:'Algerian', 'Charlemagne Std', 'Copperplate Gothic Bold';
       font-size:25px;
+      color:green;
     }
     #popup{
       width:271px;
@@ -1903,17 +1907,7 @@
     border-radius: 4px;
     background-color: #f1f1f1;
   }
- #main2 > .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    width: 500px;
-    border-radius:10px;
-   
-    margin: auto;
-    text-align: center;
-    font-family: serif;
-    float: left;
-    width: 700px;
-  }
+
   #mukne{
     background-color:lightcyan;
   }
@@ -1946,17 +1940,7 @@
   button:hover, a:hover {
     opacity: 0.7;
   }
-  #main2 {
-    width: 700px;
-    padding-right:5px;
-  }
-  #main2 > .card {
-    width:800px;
-    padding-right: 10px;
-    margin-bottom: 20px;
-    margin-left:10px;
-    
-  }
+
   @media screen and (max-width:1500px){
     #main2 > .card {
       padding: 36px;
@@ -2127,6 +2111,7 @@
     .beauty{
       font-family:'Algerian', 'Charlemagne Std', 'Copperplate Gothic Bold', 'Rosewood Std Regular';
       font-size:10px;
+      color:green;
     }
    
     .myimg{
